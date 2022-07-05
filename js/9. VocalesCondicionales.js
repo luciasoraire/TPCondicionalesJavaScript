@@ -26,3 +26,7 @@ if(frase.charAt(4)==="a" || frase.charAt(4)==="e" ||frase.charAt(4)==="i" ||fras
 {
     document.write(frase.charAt(4))
 }
+if(frase.charAt(5)==="a" || frase.charAt(5)==="e" ||frase.charAt(5)==="i" ||frase.charAt(5)==="o" ||frase.charAt(5)==="u")
+{
+    document.write(frase.charAt(5))
+}
